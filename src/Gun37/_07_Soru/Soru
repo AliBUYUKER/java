@@ -1,0 +1,6 @@
+Kare, Dikdortken sınıflarından oluşacak bir geometri programı
+yapılmak isteniyor.bunların ayrı ayrı , fakat ortak metodlarının
+(cevresi() ve alani() )zorunlu olabilmesi için gerekli yapıyı kurunuz ve yazınız.
+
+2. Aşama:  Bu bolume Daire yi de ekleyiniz. Interface deki metodları parametresi ile hepsi için
+geçerli olacak şekilde tekrar gosden geçiriniz.
